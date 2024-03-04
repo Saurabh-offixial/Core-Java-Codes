@@ -1,4 +1,4 @@
-// Single Inheeritance Program.
+// Single Inheritance Program.
 
 import java.util.*;
 
